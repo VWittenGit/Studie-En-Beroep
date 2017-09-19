@@ -1,0 +1,23 @@
+.accordion .collapse.in, .accordion [aria-expanded=true] {
+    background: #169a19;
+}
+
+.btn-white-bg:hover {
+    background: #169a19;
+}
+.header .nav-item-hover:hover {
+	color: #169a19;
+}
+
+.btn-theme-sm:hover {
+	background: #169a19;
+	border-color: #169a19;
+}
+
+.back-to-top.back-to-top-fade-out:hover {
+    background: #169a19;
+}
+
+.back-to-top.back-to-top-is-visible:hover {
+    background: #169a19;
+}
