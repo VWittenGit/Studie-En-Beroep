@@ -37,3 +37,35 @@ h1, h2, h3, h4, h5, h6 {
 .hidden-slider-dot .carousel-indicators .active {
     visibility: hidden;
 }
+
+.whitelink {
+	color: white;
+}
+
+.whitelink:hover {
+	color: #81848f;
+}
+
+table {
+	width: 100%;
+}
+
+td {
+	width: 25%;
+}
+
+.differentTable, .differentTable td{
+   border-color: black !important;
+}
+
+.table td{
+    border: grey solid 1px !important;
+}
+
+.table th{
+    border: grey solid 1px !important;
+}
+
+.table > tbody > tr > td {
+     vertical-align: middle;
+}
